@@ -10,7 +10,7 @@
 1. Click Terminal. When in Terminal.
 2. pwd
 3. Move into correct folder/directory.
-4. git add.
+4. git add --all.
 5. git commit.
 6. You will be in Vim.
 7. Type "i" to enter Insert so that you can type message.
@@ -18,5 +18,5 @@
 9. Type ":wq" (w=write, q=quit")
 10. git push.
 
-## Shortcut for Steps 4 - 8: git commit -m " "
+## Shortcut for Steps 6 - 9: git commit -m " "
 
